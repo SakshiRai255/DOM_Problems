@@ -1,1 +1,1 @@
-###    These are all my DOM problems solution
+###    These repository contains all my DOM problems solutions.
